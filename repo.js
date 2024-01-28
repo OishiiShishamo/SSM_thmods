@@ -1,6 +1,6 @@
 {
     "contact": "shishamodesu@outlook.jp",
-    "id": "SSM_thmods",
+    "id": "SSM",
     "title": "SSM's Patches",
     "servers": [
         "https://mirrors.thpatch.net/SSM/"
