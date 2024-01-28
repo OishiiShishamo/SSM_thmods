@@ -1,5 +1,8 @@
 {
     "id": "UnkoFO",
+    "dependencies": [
+		"nmlgc/base_tsa/"
+	],
     "servers": [
         "https://mirrors.thpatch.net/SSM/UnkoFO/"
     ],
