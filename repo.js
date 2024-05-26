@@ -8,6 +8,6 @@
     "patches": {
         "Moon2Earth": "(TH15)The moon becomes earth.",
         "UnkoFO": "(TH12)UFO venturers and UFOs will be Unko.",
-        "BanishAboutSE": "(TH16)Muffles the SE emitted from your player."
+        "BanishAboutSE": "(TH14, TH15, TH16)Muffles the SE emitted from your player."
     }
 }
