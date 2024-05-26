@@ -6,5 +6,5 @@
     "servers": [
         "https://mirrors.thpatch.net/SSM/UnkoFO/"
     ],
-    "title": "UFO venturers and UFOs will be Unko."
+    "title": "(TH12)UFO venturers and UFOs will be Unko."
 }

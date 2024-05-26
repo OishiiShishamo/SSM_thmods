@@ -6,5 +6,5 @@
     "servers": [
         "https://mirrors.thpatch.net/SSM/Moon2Earth/"
     ],
-    "title": "The moon becomes earth."
+    "title": "(TH15)The moon becomes earth."
 }
